@@ -1,6 +1,4 @@
-- Hi people!, a eternal lerner trying to improve every day. I'm a enthusiasth about ML and IA, web development and maker movement.
-
-
+- Hi people!, a eternal lerner trying to improve every day. Learning programming!
 
 <!---
 LuismiBaro/LuismiBaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
