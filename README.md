@@ -1,4 +1,5 @@
-- Hi people!, a eternal lerner trying to improve every day. Learning programming!
+- Hi people!, playing and learning!
+- 
 
 <!---
 LuismiBaro/LuismiBaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
