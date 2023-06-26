@@ -1,3 +1,5 @@
+<img src="https://github.com/LuismiBaro/LuismiBaro/blob/main/banner-gitHub.xcf" alt="">
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif"/>
 </div>
